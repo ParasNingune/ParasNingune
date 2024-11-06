@@ -57,7 +57,7 @@
 </p>
 
 ## 🐍 Commits
-<div align="center>
+<div align="center">
 
 ![GitHub Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParasNingune&bg_color=2e2e2e&color=ffffff&line=00ff00&point=ffffff&area=true)
 
