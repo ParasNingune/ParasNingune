@@ -16,11 +16,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ParasNingune
+          snake_color: "#00FF00"  # Green color for the snake
           outputs: dist/snake.svg
-
-      - name: Check for changes in dist/snake.svg
-        run: |
-          git diff --exit-code dist/snake.svg || echo "Changes detected"
 
       - name: Commit and Push the Snake Animation to Output Branch
         run: |
