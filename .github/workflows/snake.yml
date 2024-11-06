@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ParasNingune
-          snake_color: "#00FF00"  # Green color for the snake
+          snake_color: "url(#green-gradient)"  # Apply gradient to snake color
           outputs: dist/snake.svg
 
       - name: Commit and Push the Snake Animation to Output Branch
