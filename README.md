@@ -43,7 +43,7 @@
   
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=232323)](mailto:paras.ningune01@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=232323)](https://www.instagram.com/paras.ningune/)
-[![Resume](https://img.shields.io/badge/Resume-%23ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white&color=232323)](https://drive.google.com/file/d/1EC-QgMTkhiia4RpSXv-gnDmvclIP1ko-/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-%23ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white&color=232323)]([https://drive.google.com/file/d/1EC-QgMTkhiia4RpSXv-gnDmvclIP1ko-/view?usp=drive_link](https://drive.google.com/file/d/1Rg9nw6k34rCDRWzqbjXCSbAPEBwvxo_X/view?usp=sharing))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=232323)](https://linkedin.com/in/parasningune)
 
 </div>
