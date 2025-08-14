@@ -3,7 +3,6 @@
 ## 🚀 About Me
 
 - 📝 Information Technology student from PVG COET.
-- 🌱 I’m currently learning Cloud Computing.
 - 👨‍💻 I’m working on projects related to Web Development, Machine Learning.
 
 ## 🛠️ Languages and Tools
